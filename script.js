@@ -1,8 +1,8 @@
-const btn = document.getElementById("btn"); 
+const btnTopo = document.getElementById("btn-topo"); 
 
 // Verificação para garantir que o botão existe
-if (btn) {
-    btn.addEventListener("click", () => {
+if (btnTopo) {
+    btnTopo.addEventListener("click", () => {
         alert("Você clicou no botão!");
     });
 }
