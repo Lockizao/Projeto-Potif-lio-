@@ -2,16 +2,16 @@
 
 ## Portfólio - Matheus Felipe
 
-Este projeto marca o início da minha jornada na criação de um **portfólio pessoal**, desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.
-O foco principal foi consolidar os fundamentos do front-end e criar uma base sólida para evoluir em projetos futuros.
+Este projeto foi criado como um **exercício inicial de front-end**, utilizando **HTML**, **CSS** e **JavaScript** para estruturar, estilizar e adicionar interatividade básica a um site pessoal.
+O objetivo principal era **entender a base do desenvolvimento web** e aplicar boas práticas fundamentais.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-* **HTML5** – estrutura do site
+* **HTML5** – estrutura da página
 * **CSS3** – estilização e layout responsivo
-* **JavaScript** – interatividade básica com o usuário
+* **JavaScript** – interatividade simples
 * **Google Fonts (Montserrat)** – tipografia personalizada
 
 ---
@@ -20,8 +20,8 @@ O foco principal foi consolidar os fundamentos do front-end e criar uma base só
 
 ```
 ├── index.html   # Estrutura principal do site  
-├── style.css    # Estilos e layout  
-├── script.js    # Funções e interações básicas  
+├── style.css    # Estilos do layout  
+├── script.js    # Funções básicas em JS  
 └── images/      # Pasta com a logo e demais imagens  
 ```
 
@@ -29,14 +29,14 @@ O foco principal foi consolidar os fundamentos do front-end e criar uma base só
 
 ## 🎨 Funcionalidades
 
-* Header responsivo com:
+* Header com:
 
   * Logo personalizada (fundo transparente)
   * Menu de navegação (Início, Especialidades, Sobre, Projetos)
   * Botão de contato com efeito hover
-* **Interatividade com JavaScript**:
+* **JavaScript básico**:
 
-  * Alerta exibido ao clicar no botão com `id="btn"`
+  * Alerta simples ao clicar no botão `id="btn"`
 
 ---
 
@@ -47,21 +47,18 @@ O foco principal foi consolidar os fundamentos do front-end e criar uma base só
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
-2. Abra o arquivo `index.html` diretamente no navegador.
+2. Abra o arquivo `index.html` no navegador.
 
 ---
 
-## 🔧 Próximos passos
+## ⚠️ Status do projeto
 
-Após explorar as inúmeras possibilidades que o **CSS**, **JavaScript** e **HTML** oferecem, decidi transformar este projeto em uma **ferramenta de aprendizado** e partir para a criação de um **novo portfólio**, com tecnologias mais avançadas e foco em **profissionalismo e performance**.
+Este projeto **foi descontinuado**.
+Após explorar suas possibilidades e compreender o potencial das tecnologias básicas, decidi **encerrar o desenvolvimento desta versão**.
 
-### Próximas melhorias:
+Ele permanecerá como **registro de aprendizado** e ponto de partida da minha evolução como desenvolvedor.
 
-* Implementar **menu mobile** (hamburger menu)
-* Criar seções completas para **Especialidades**, **Sobre** e **Projetos**
-* Adicionar **formulário funcional de contato**
-* Evoluir para **frameworks modernos**, como **React**, **Next.js** e **Tailwind CSS**
-* Integrar animações, APIs e otimização SEO
+Atualmente, estou iniciando um **novo portfólio**, com foco em um design mais criativo, profissional e avançado — utilizando **ferramentas e frameworks modernos**.
 
 ---
 
@@ -69,4 +66,4 @@ Após explorar as inúmeras possibilidades que o **CSS**, **JavaScript** e **HTM
 
 **Matheus Felipe**
 Desenvolvedor Fullstack em formação 🚀
-Buscando sempre ir além do básico e elevar cada linha de código ao nível profissional.
+Sempre buscando superar o básico e transformar aprendizado em inovação.
